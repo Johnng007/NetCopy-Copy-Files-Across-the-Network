@@ -1,4 +1,4 @@
-# Johnng
+# NetCopy
 NetCopy - Securely Copy Files and Folders Across the Network
 
 INTRODUCTION: NetCopy is a simple yet useful Batch script for securely copying files around the Network, Basically all the functions rely on the Robocopy command. I tried to make it as interactive as possible whereby you or your IT Team dont need to remember any Robocopy commands or edith batch scripts every now and then for any function they want to perform. This script is also useful if the normal Network path Navigation (Back-slashing) is disabled due to security reasons, disabling that or c-drive sharing doesnt affect Robocopy as it utilizes Admin share. I would also advice you disable them if your organization is under attack to limit the possibility of Lateral Movement accross the Network.
